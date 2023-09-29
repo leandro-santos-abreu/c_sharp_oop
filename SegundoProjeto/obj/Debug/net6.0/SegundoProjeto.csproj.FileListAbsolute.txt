@@ -1,0 +1,15 @@
+F:\c_sharp_oop\SegundoProjeto\bin\Debug\net6.0\SegundoProjeto.exe
+F:\c_sharp_oop\SegundoProjeto\bin\Debug\net6.0\SegundoProjeto.deps.json
+F:\c_sharp_oop\SegundoProjeto\bin\Debug\net6.0\SegundoProjeto.runtimeconfig.json
+F:\c_sharp_oop\SegundoProjeto\bin\Debug\net6.0\SegundoProjeto.dll
+F:\c_sharp_oop\SegundoProjeto\bin\Debug\net6.0\SegundoProjeto.pdb
+F:\c_sharp_oop\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.csproj.AssemblyReference.cache
+F:\c_sharp_oop\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\c_sharp_oop\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.AssemblyInfoInputs.cache
+F:\c_sharp_oop\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.AssemblyInfo.cs
+F:\c_sharp_oop\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+F:\c_sharp_oop\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.dll
+F:\c_sharp_oop\SegundoProjeto\obj\Debug\net6.0\refint\SegundoProjeto.dll
+F:\c_sharp_oop\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.pdb
+F:\c_sharp_oop\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.genruntimeconfig.cache
+F:\c_sharp_oop\SegundoProjeto\obj\Debug\net6.0\ref\SegundoProjeto.dll
