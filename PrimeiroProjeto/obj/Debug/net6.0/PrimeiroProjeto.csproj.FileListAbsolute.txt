@@ -1,0 +1,15 @@
+F:\c_sharp_oop\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.exe
+F:\c_sharp_oop\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.deps.json
+F:\c_sharp_oop\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.runtimeconfig.json
+F:\c_sharp_oop\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.dll
+F:\c_sharp_oop\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.pdb
+F:\c_sharp_oop\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+F:\c_sharp_oop\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\c_sharp_oop\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+F:\c_sharp_oop\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfo.cs
+F:\c_sharp_oop\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+F:\c_sharp_oop\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.dll
+F:\c_sharp_oop\PrimeiroProjeto\obj\Debug\net6.0\refint\PrimeiroProjeto.dll
+F:\c_sharp_oop\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.pdb
+F:\c_sharp_oop\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.genruntimeconfig.cache
+F:\c_sharp_oop\PrimeiroProjeto\obj\Debug\net6.0\ref\PrimeiroProjeto.dll
